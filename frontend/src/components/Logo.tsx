@@ -15,7 +15,7 @@ export default function Logo() {
           </linearGradient>
         </defs>
       </svg>
-      Bond Cals
+      Bond Call
     </div>
   );
 }
